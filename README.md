@@ -27,7 +27,7 @@ Cálculo da média de idade dos clientes para cada bandeira de cartão de crédi
 
 > Premissas:
 
-Antes de iniciar a analise e a criação das métricas é importante ter em mente algumas premissas do negocio que foram expostas pela Varejista. A primeira delas é que, devido a um erro no sistema, algumas compras não possuem informações sobre sua Unidade Federativa(UF). Para solucionar este problema, foi orientado que as compras que não apresentam a UF fossem consideradas como pertencentes ao estado do Mato Grosso do Sul(MS). A segunda premissa é que o preço de um produto(Descrito no dataset como "Preço") não pode ser maior do que o preço do produto + frete(Descrito no dataset como "Preço_com_frete").
+Antes de iniciar a analise e a criação das métricas é importante ter em mente algumas premissas do negocio que foram expostas pela Varejista. A primeira delas é que, devido a um erro no sistema, algumas compras não possuem informações sobre sua Unidade Federativa(UF). Para solucionar este problema, foi orientado que as compras que não apresentam a UF fossem consideradas como pertencentes ao estado do Mato Grosso do Sul(MS). A segunda premissa é que o preço de um produto(descrito no dataset como "Preço") não pode ser maior do que o preço do produto + frete(descrito no dataset como "Preço_com_frete").
 
 
 
