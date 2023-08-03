@@ -6,6 +6,7 @@ Uma loja de varejo deseja criar algumas métricas para acompanhar seus resultado
 
 A missão é fazer todo o tratamento e união das bases para a construção de algumas métricas.
 
+
 > Métricas:
 
 Departamentos mais vendidos:
@@ -22,6 +23,7 @@ Cálculo da média de renda gerada por cada canal de venda utilizado pela empres
 
 Média de idade de clientes por bandeira:
 Cálculo da média de idade dos clientes para cada bandeira de cartão de crédito utilizada nas transações, fornecendo informações sobre preferências de pagamento e segmentação de clientes.
+
 
 > Premissas:
 
