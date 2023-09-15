@@ -9,7 +9,7 @@ A missão é fazer todo o tratamento e união das bases para a construção de a
 > Métricas:
 
 Departamentos mais vendidos:
-Análise dos dados de vendas para identificar os departamentos que obtiveram maior volume de vendas. Essa métrica auxilia na compreensão dos setores mais populares e pode guiar decisões estratégicas.
+Análise dos Dados de vendas para identificar os departamentos que obtiveram maior volume de vendas. Essa métrica auxilia na compreensão dos setores mais populares e pode guiar decisões estratégicas.
 
 Média de Preço com frete por Nome de Departamento:
 Cálculo da média de preço total, considerando o valor do frete, para cada departamento específico. Essa análise oferece insights sobre padrões de preço e despesas por departamento.
